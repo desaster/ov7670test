@@ -1,4 +1,8 @@
 ov7670test
 ==========
 
-lpcxpresso project for working with the ov7670 camera sensor
+LPCXpresso project for working with the ov7670 camera sensor.
+
+For details on what this is about, see:
+
+http://qrfnfgre.wordpress.com/2012/05/07/ov7670-camera-sensor-success/
